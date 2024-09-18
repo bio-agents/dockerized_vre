@@ -1,0 +1,14 @@
+#PHP libraries
+front_end/openVRE/vendor/*
+front_end/openVRE/composer.lock
+front_end/openVRE/composer.phar
+# Configurartion files
+front_end/openVRE/config/*conf
+front_end/openVRE/config/globals.inc.php
+#Agents and Visualizers
+front_end/openVRE/public/agents/*
+front_end/openVRE/!public/agents/agent_skeleton/
+# Others
+volumes/mongo_data
+volumes/pg_data
+volumes/shared_data/logs/
