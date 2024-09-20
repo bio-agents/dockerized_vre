@@ -1,9 +1,3 @@
-// top-level JBrowse configuration file.  Treated the same as
-// jbrowse.conf, but this one is in JSON format.
-//
-// Unless generating configuration from scripts, most users will
-// prefer to add variables to jbrowse.conf instead of this file, since
-// jbrowse.conf is much easier to hand-edit.
-{
-
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5847aec2c5c5bf5208c425f6f6a048734cdbbba5f68b3e24b0303e9ffc60a04
+size 299

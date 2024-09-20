@@ -1,1 +1,3 @@
-{"lowercase_keys":1,"format":"json","track_names":["ExampleFeatures","NameTest","snps","Motifs","Alignments","Genes","ReadingFrame","CDS","Transcript","Clones","EST","volvox_vcf_test","volvox-sorted-vcf"],"compress":0,"hash_bits":16}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ee883d4603ed668ee430f1a29b44a809e7380857c8c90ec2db0785b876ba492
+size 233

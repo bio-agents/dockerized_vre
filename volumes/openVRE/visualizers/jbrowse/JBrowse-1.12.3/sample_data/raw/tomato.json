@@ -1,27 +1,3 @@
-{
-  "description": "Tomato ITAG2.3 Annotation",
-  "db_adaptor": "Bio::DB::SeqFeature::Store",
-  "db_args": { "-adaptor": "berkeleydb3",
-               "-dir": "sample_data/raw/tomato" },
-
-  "TRACK DEFAULTS": {
-    "class": "feature",
-    "autocomplete": "all"
-  },
-
-  "tracks": [
-    {
-      "track": "eugene",
-      "key": "Gene models",
-      "feature": ["mRNA:ITAG_eugene"],
-      "autocomplete": "all",
-      "class": "transcript",
-      "subfeatures": true,
-      "subfeature_classes": {
-        "CDS": "transcript-CDS",
-        "five_prime_UTR": "transcript-UTR",
-        "three_prime_UTR": "transcript-UTR"
-      }
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2f3c2c9fcc091a697e1df696a8b6b32b8977d1482475b6ae8ca6b2143cbfae
+size 634

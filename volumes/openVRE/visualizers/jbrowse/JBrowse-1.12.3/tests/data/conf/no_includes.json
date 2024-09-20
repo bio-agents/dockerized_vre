@@ -1,9 +1,3 @@
-{
-  "bar": 42,
-  "overrideMe": "no_includes.json",
-  "override2": "no_includes.json",
-  "tracks": [
-    { "label": "zaz", "honk": "boop", "noinclude": "also here", "quux": "foo" },
-    { "label": "noinclude", "bar": "barbar" }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46a9f273b9c6b9c28039e29c9e8ee4e0ea980e409b90eb477526af76a1632fef
+size 233

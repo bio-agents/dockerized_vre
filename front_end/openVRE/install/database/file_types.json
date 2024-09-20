@@ -1,7 +1,3 @@
-{"_id":"TAR","extension":["TAR","TGZ","TBZ","TBZ2"]}
-{"_id":"JSON","extension":["json"]}
-{"_id":"TXT","extension":["TXT","LOG"]}
-{"_id":"CSV","extension":["CSV"]}
-{"_id":"TSV","extension":["TSV"]}
-{"_id":"FASTA","extension":["FASTA","FA","FN"]}
-{"_id":"YAML","extension":["yml","yaml"]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:59d351a84f94b5eeb1ad6106eadde844031b46e2fbbb15c00672ebcb999453cc
+size 287

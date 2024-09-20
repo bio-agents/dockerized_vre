@@ -1,10 +1,3 @@
-{
-  "zoz": 42,
-  "overrideMe": "includes.json",
-  "include": [ "no_includes.json" ],
-  "override2": "includes.json",
-  "tracks": [
-      { "label": "zaz", "quux": "bar", "include": "here too!" },
-      { "label": "includes", "zeek": "hi" }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3382d620a60a1ddcac75c058c4461f1083d66506ad7d27f20bc90d5c2ec483
+size 246

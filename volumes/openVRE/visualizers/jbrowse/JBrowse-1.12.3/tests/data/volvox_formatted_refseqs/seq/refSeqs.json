@@ -1,16 +1,3 @@
-[
-   {
-      "length" : 50001,
-      "name" : "ctgA",
-      "seqChunkSize" : 20000,
-      "end" : 50001,
-      "start" : 0
-   },
-   {
-      "length" : 6079,
-      "name" : "ctgB",
-      "seqChunkSize" : 20000,
-      "end" : 6079,
-      "start" : 0
-   }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e540e0f58a2e686f549dcbc338e2cf09a1e713a6a038653457a96fa630f4fbde
+size 255
